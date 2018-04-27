@@ -1,0 +1,1 @@
+This package will help in downloading image from a URL and saving that in s3 bucket after resizing it based on requirements
