@@ -1,9 +1,10 @@
 {
   "name": "s3-imageresizer",
-  "version": "1.0.3",
+  "version": "1.0.5",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jlcvp/fcm-node.git"
+    "url": "https://github.com/XelpmocDesignandTechPvtLtd/s3-imageresizer"
+  },
   "description": "Get image buffer from url,Resize image using buffer/url, upload image buffer to s3, ",
   "main": "index.js",
   "scripts": {
